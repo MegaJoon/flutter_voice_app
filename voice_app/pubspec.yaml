@@ -14,6 +14,7 @@ dependencies:
   shared_preferences: ^0.5.6+1
   google_fonts: ^0.3.6
   dots_indicator: ^1.1.0
+  font_awesome_flutter: ^8.5.0
 
 dev_dependencies:
   flutter_test:
